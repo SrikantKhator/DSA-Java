@@ -15,6 +15,9 @@ The solutions are written in a **clean, interview-oriented format**, focusing on
 - Left Rotate Array by K Places
 - Move Zeroes to the End of the Array
 - Reverse an Array
+- Find the Missing Number (1 to N)
+- Maximum Consecutive Ones
+- Find the Element Appearing Once (Others Appear Twice)
 
 ---
 
@@ -25,6 +28,9 @@ The solutions are written in a **clean, interview-oriented format**, focusing on
 - Two Pointer Technique
 - Reversal Algorithm (Array Rotation)
 - Stable Element Reordering
+- Prefix Sum Concept
+- XOR Bitwise Operation
+- Mathematical Optimization (Sum Formula)
 - Edge Case Handling
 
 ---
